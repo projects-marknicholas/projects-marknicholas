@@ -1,4 +1,4 @@
-# Hi there, I'm Mark Nicholas! 👋
+# Hi there, I'm Mark Nicholas Razon! 👋
 I'm Mark Nicholas Razon, a full-stack developer based in Laguna, Philippines.
 
 In addition, I provide freelance work for clients in the areas of full stack development, data analytics, web and graphic design, and code lessons.
